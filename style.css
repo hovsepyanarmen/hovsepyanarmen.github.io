@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(184, 230, 230);
+    text-align: center;
+    margin-top: 100px;
+}
+h1{
+    font-size: 70px;
+    color: rgb(155, 9, 9);
+    font-weight: 400;
+   font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
