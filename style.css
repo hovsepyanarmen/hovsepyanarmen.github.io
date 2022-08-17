@@ -144,7 +144,8 @@ body{
     width: 100%;
   }
   .logo-name>h1{
-    font-size: 20px;
+   font-size: 22px;
+    margin: auto;
   }
   .nav
 {
@@ -155,5 +156,11 @@ body{
 .logo-name>h3
 {
     font-size: 14px;
+}
+#logoimg
+{
+ width: 100px;
+ height: 75px;
+ margin:15px 40px;
 }
   }
