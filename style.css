@@ -163,4 +163,8 @@ body{
  height: 75px;
  margin:15px 40px;
 }
+.nav>li>a
+{
+    margin: 3px;
+}
   }
