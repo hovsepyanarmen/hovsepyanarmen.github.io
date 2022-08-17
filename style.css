@@ -122,6 +122,8 @@ body{
 @media screen and (max-width: 500px) {
     body {
         width: 100%;
+            margin: 0;
+    }
     }
     #myCarousel
 {
@@ -141,4 +143,10 @@ body{
   .logo-name>h1{
     font-size: 16px;
   }
+  .nav
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
   }
